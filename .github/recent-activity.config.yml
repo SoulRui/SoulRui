@@ -1,0 +1,12 @@
+settings:
+  username: SoulRui
+  max_lines: 8
+  commit_msg: "Update recent public activity"
+  commit_name: "github-actions[bot]"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  ignored_repos: [SoulRui/SoulRui]
+  date:
+    timezone: "Asia/Shanghai"
+    text: "Last updated: {DATE}"
+    format: "yyyy-mm-dd HH:MM"
+  line_prefix: "{NUM}. "

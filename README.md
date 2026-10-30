@@ -45,9 +45,8 @@ I build practical Windows tools for GIS, drone imagery, photo processing, and fi
 
 ### 最近公开动态 / Recent public activity
 
-<!--START_SECTION:activity-->
-- 正在等待第一次自动更新 / Waiting for the first automatic update.
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 每日通过 GitHub Actions 自动更新本节，也可以手动运行 **Update recent activity** 工作流。自动更新会忽略本主页仓库，避免机器人自我刷新。
 
