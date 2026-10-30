@@ -1,0 +1,24 @@
+name: Update recent activity
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+  issues: read
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: Readme-Workflows/recent-activity@aa0d01a1f4efdb8595986788eccbfdd430c73b8b # v2.4.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_LINES: "8"
+          IGNORE_REPOS: SoulRui/SoulRui
