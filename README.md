@@ -46,13 +46,13 @@ I build practical Windows tools for GIS, drone imagery, photo processing, and fi
 ### 最近公开动态 / Recent public activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Photo EXIF Watermark v1.0.2](https://github.com/SoulRui/photo-exif-watermark/releases/tag/v1.0.2) in [SoulRui/photo-exif-watermark](https://github.com/SoulRui/photo-exif-watermark)<br>
-2. ✌️ Released [Folder Tidy Tool v1.0.4](https://github.com/SoulRui/folder-tidy-tool/releases/tag/v1.0.4) in [SoulRui/folder-tidy-tool](https://github.com/SoulRui/folder-tidy-tool)<br>
-3. ⬆️ Pushed undefined commit(s) to [SoulRui/folder-tidy-tool](https://github.com/SoulRui/folder-tidy-tool)<br>
-4. ✌️ Released [文件夹整理工具 v1.0.3 / MC File](https://github.com/SoulRui/folder-tidy-tool/releases/tag/v1.0.3) in [SoulRui/folder-tidy-tool](https://github.com/SoulRui/folder-tidy-tool)<br>
+1. ⬆️ Pushed undefined commit(s) to [SoulRui/folder-tidy-tool](https://github.com/SoulRui/folder-tidy-tool)<br>
+2. ⬆️ Pushed undefined commit(s) to [SoulRui/photo-exif-watermark](https://github.com/SoulRui/photo-exif-watermark)<br>
+3. ✌️ Released [照片 EXIF 水印工具 v1.0.3](https://github.com/SoulRui/photo-exif-watermark/releases/tag/v1.0.3) in [SoulRui/photo-exif-watermark](https://github.com/SoulRui/photo-exif-watermark)<br>
+4. ✌️ Released [文件夹整理工具 v1.0.5](https://github.com/SoulRui/folder-tidy-tool/releases/tag/v1.0.5) in [SoulRui/folder-tidy-tool](https://github.com/SoulRui/folder-tidy-tool)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-11-07 18:26
+Last updated: 2026-11-08 18:33
 <!--RECENT_ACTIVITY:last_update_end-->
 
 每日通过 GitHub Actions 自动更新本节，也可以手动运行 **Update recent activity** 工作流。自动更新会忽略本主页仓库，避免机器人自我刷新。
