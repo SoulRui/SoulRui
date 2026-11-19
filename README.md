@@ -46,13 +46,13 @@ I build practical Windows tools for GIS, drone imagery, photo processing, and fi
 ### 最近公开动态 / Recent public activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [SoulRui/photo-exif-watermark](https://github.com/SoulRui/photo-exif-watermark)<br>
-2. ⬆️ Pushed undefined commit(s) to [SoulRui/folder-tidy-tool](https://github.com/SoulRui/folder-tidy-tool)<br>
+1. ⭐ Starred [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)<br>
+2. ⬆️ Pushed undefined commit(s) to [SoulRui/photo-exif-watermark](https://github.com/SoulRui/photo-exif-watermark)<br>
 3. ⬆️ Pushed undefined commit(s) to [SoulRui/folder-tidy-tool](https://github.com/SoulRui/folder-tidy-tool)<br>
-4. ⬆️ Pushed undefined commit(s) to [SoulRui/photo-exif-watermark](https://github.com/SoulRui/photo-exif-watermark)<br>
+4. ⬆️ Pushed undefined commit(s) to [SoulRui/folder-tidy-tool](https://github.com/SoulRui/folder-tidy-tool)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-11-18 19:55
+Last updated: 2026-11-19 19:52
 <!--RECENT_ACTIVITY:last_update_end-->
 
 每日通过 GitHub Actions 自动更新本节，也可以手动运行 **Update recent activity** 工作流。自动更新会忽略本主页仓库，避免机器人自我刷新。
